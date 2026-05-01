@@ -1,3 +1,4 @@
+// hello
 /// <reference path="./locale/index.d.ts" />
 
 export = dayjs;
