@@ -22,3 +22,5 @@ Our open source community strives to be nice, welcoming and professional. Instan
 * Feel free to create a new `test/*.test.js` file if none of the existing test files suits your test case.
 * Help us keeping 100% test coverage :D.
 * You can use `npm run test` before submitting a pull request.
+
+test 10a
