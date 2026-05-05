@@ -1,3 +1,5 @@
+owner: xyz
+
 # Contributing to Day.js
 
 Thank you for taking the time to read our contribution guidelines. You can start contributing in many ways like filing bug reports, [improving the locale && documentation](https://github.com/iamkun/dayjs/issues/171), or helping others.
