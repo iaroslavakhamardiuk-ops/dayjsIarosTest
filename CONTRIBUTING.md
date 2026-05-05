@@ -1,4 +1,4 @@
-# Contributing to Day.js
+# Contributing to Day.jsbvvmg
 
 Thank you for taking the time to read our contribution guidelines. You can start contributing in many ways like filing bug reports, [improving the locale && documentation](https://github.com/iamkun/dayjs/issues/171), or helping others.
 
